@@ -3,6 +3,7 @@
 
 ## Language list
 * D
+* javascript
 * python
 * ruby
 * shellscript
