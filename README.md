@@ -2,5 +2,6 @@
 * Set of various programming language hello world.
 
 ## Language list
-* ruby
 * python
+* ruby
+* shellscript
